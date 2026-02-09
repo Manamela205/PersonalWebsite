@@ -49,6 +49,14 @@ export function HeroSection() {
               <Download className="h-4 w-4" />
               Download CV
             </a>
+            <a
+              href="Academic_Transcript/Academic_Transcript.pdf"
+              download
+              className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-secondary px-6 py-3 text-sm font-medium text-secondary-foreground transition-colors hover:bg-muted"
+            >
+              <Download className="h-4 w-4" />
+              Download Transcript
+            </a>
           </div>
         </div>
 
@@ -56,7 +64,7 @@ export function HeroSection() {
         <div className="relative flex-shrink-0">
           <div className="relative h-64 w-64 overflow-hidden rounded-2xl border-2 border-border md:h-80 md:w-80">
             <Image
-              src="/Images/image.jpg"
+              src="Images/image.jpg"
               alt="Lucky Manamela"
               fill
               className="object-cover"
