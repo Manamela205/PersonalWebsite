@@ -24,13 +24,15 @@ export function HeroSection() {
           </h1>
 
           <p className="text-lg font-medium text-accent md:text-xl">
-            Junior AI Engineer &amp; Data Scientist
+            Data Engineer &amp; BI Developer | Microsoft Certified Fabric Analytics
+            Engineer Associate
           </p>
 
           <p className="max-w-lg text-pretty leading-relaxed text-muted-foreground">
-            Turning data into actionable solutions. Passionate about building
-            scalable AI applications, explainable AI, and delivering data-driven
-            insights across banking, healthcare, and enterprise environments.
+            Bridging the gap between raw data and strategic solutions.
+            Specialist in building end-to-end ETL pipelines, predictive models,
+            and scalable AI applications that transform complex data into
+            actionable business growth.
           </p>
 
           <div className="flex flex-col gap-3 sm:flex-row">
@@ -76,7 +78,7 @@ export function HeroSection() {
               Based in
             </p>
             <p className="text-sm font-semibold text-foreground">
-              Gauteng, SA
+              Pretoria, Gauteng, SA
             </p>
           </div>
         </div>
