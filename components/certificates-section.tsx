@@ -110,7 +110,7 @@ export function CertificatesSection() {
                     {certificates.map((cert) => (
                         <a
                             key={cert.file}
-                            href={`/Certificate/${cert.file}`}
+                            href={`Certificate/${cert.file}`}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="group relative flex flex-col justify-between rounded-xl border border-border bg-card p-6 transition-all hover:border-accent/30 hover:shadow-lg"

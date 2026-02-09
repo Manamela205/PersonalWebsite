@@ -42,7 +42,7 @@ export function HeroSection() {
               Contact Me
             </a>
             <a
-              href="/cv/Lucky Manamela cv.pdf"
+              href="cv/Lucky Manamela cv.pdf"
               download
               className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-secondary px-6 py-3 text-sm font-medium text-secondary-foreground transition-colors hover:bg-muted"
             >
