@@ -78,7 +78,7 @@ export function HeroSection() {
               Based in
             </p>
             <p className="text-sm font-semibold text-foreground">
-              Pretoria, Gauteng, SA
+              Tembisa, Gauteng, SA
             </p>
           </div>
         </div>
