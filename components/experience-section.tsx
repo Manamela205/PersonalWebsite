@@ -14,7 +14,7 @@ const experiences: ExperienceItem[] = [
   {
     role: "Graduate Data Scientist",
     company: "Sambe Consulting",
-    period: "Feb 2025 -- Present",
+    period: "Feb 2025 -- Jan 2026",
     type: "Contract",
     icon: Briefcase,
     responsibilities: [
