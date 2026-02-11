@@ -24,8 +24,7 @@ export function HeroSection() {
           </h1>
 
           <p className="text-lg font-medium text-accent md:text-xl">
-            Data Engineer &amp; BI Developer | Microsoft Certified Fabric Analytics
-            Engineer Associate
+            Junior Data Engineer | Data Scientist | BI &amp; Cloud Engineer
           </p>
 
           <p className="max-w-lg text-pretty leading-relaxed text-muted-foreground">
