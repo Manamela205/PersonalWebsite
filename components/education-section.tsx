@@ -49,7 +49,7 @@ export function EducationSection() {
               </h4>
               <p className="text-sm text-accent">Belgium Campus iTversity</p>
               <p className="text-xs font-mono text-muted-foreground">
-                2022 -- 2026
+                2022 -- 2025
               </p>
             </div>
 

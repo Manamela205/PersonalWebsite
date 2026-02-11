@@ -15,7 +15,7 @@ const experiences: ExperienceItem[] = [
     role: "Graduate Data Scientist",
     company: "Sambe Consulting",
     period: "Feb 2025 -- Present",
-    type: "Internship & Contract",
+    type: "Contract",
     icon: Briefcase,
     responsibilities: [
       "Supported BI and data engineering projects using Python, SQL, Power BI, and Azure.",
