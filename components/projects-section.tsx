@@ -6,6 +6,9 @@ import {
   Users,
   BarChart3,
   LayoutDashboard,
+  Server,
+  AppWindow,
+  Database,
   ChevronDown,
 } from "lucide-react";
 
@@ -79,6 +82,48 @@ const projects: Project[] = [
     ],
     technologies: ["Power BI", "DAX", "SQL", "Azure Datasets"],
     icon: LayoutDashboard,
+  },
+  {
+    title: "Automated Database & Server Networking",
+    subtitle: "Database Automation & Migration",
+    description:
+      "Automated the deployment of database instances and configured server networking for secure remote access.",
+    details: [
+      "Implemented database automation scripts to streamline environment setup and deployment workflows.",
+      "Configured server networking using Pinggy to expose local services for remote testing and collaboration.",
+      "Integrated Elastic Stack (Elasticsearch, Kibana) for efficient timesheet data migration and monitoring.",
+      "Resolved complex configuration challenges through independent research and technical troubleshooting.",
+    ],
+    technologies: ["SQL", "Python", "Pinggy", "Elastic/Kibana", "SSIS"],
+    icon: Server,
+  },
+  {
+    title: "Order Tracking & Reporting App",
+    subtitle: "Power Platform Development",
+    description:
+      "A responsive low-code application for tracking and reporting pharmacy orders, improving operational efficiency.",
+    details: [
+      "Designed a user-centered interface in Power Apps optimized for Desktop, Tablet, and Mobile devices.",
+      "Developed automated workflows using Power Automate for order processing and real-time notifications.",
+      "Integrated SharePoint as a secure backend data source for centralized data management.",
+      "Conducted iterative user testing and refined complex designs to enhance overall usability and UX.",
+    ],
+    technologies: ["Power Apps", "Power Automate", "SharePoint", "Low-Code"],
+    icon: AppWindow,
+  },
+  {
+    title: "Timesheet Data Migration",
+    subtitle: "ETL & Real-time Visualization",
+    description:
+      "Migrated enterprise timesheet data from legacy formats to a relational database with real-time analytics integration.",
+    details: [
+      "Designed and implemented complex SSIS packages for enterprise-scale ETL (Extract, Transform, Load) processes.",
+      "Optimized SQL queries and normalized database structures to ensure high data integrity and retrieval speed.",
+      "Configured Elastic Stack (Elasticsearch, Logstash, Kibana) for log management and real-time monitoring dashboards.",
+      "Automated the entire migration and deployment lifecycle using GitHub Actions CI/CD pipelines.",
+    ],
+    technologies: ["SSIS", "SQL Server", "Elastic/Kibana", "GitHub Actions"],
+    icon: Database,
   },
 ];
 
