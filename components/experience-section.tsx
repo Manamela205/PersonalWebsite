@@ -39,12 +39,25 @@ const experiences: ExperienceItem[] = [
   {
     role: "Vice President",
     company: "Student Representative Council (SRC)",
-    period: "2022 -- 2026",
+    period: "2023 -- 2024",
     type: "Leadership",
     icon: Users,
     responsibilities: [
       "Represented student interests and coordinated campus initiatives.",
       "Led strategic decision-making and collaborated with university administration.",
+      "Organized events and managed student community engagement.",
+    ],
+    technologies: ["Leadership", "Communication", "Project Management"],
+  },
+  {
+    role: "Student Relation Department Member",
+    company: "Student Representative Council (SRC)",
+    period: "2022 -- 2023",
+    type: "Leadership",
+    icon: Users,
+    responsibilities: [
+      "Represented student interests and coordinated campus initiatives.",
+      "Collaborated strategic decision-making.",
       "Organized events and managed student community engagement.",
     ],
     technologies: ["Leadership", "Communication", "Project Management"],
