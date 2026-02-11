@@ -93,6 +93,11 @@ const certificates = [
         file: "SQL Server Integration Services (SSIS) - An Introduction.pdf",
         category: "Data Engineering",
     },
+    {
+        title: "Foundations of Enterprise Content Management",
+        file: "CertificateOfCompletion_Foundations of Enterprise Content Management.pdf",
+        category: "Content Management",
+    },
 ];
 
 export function CertificatesSection() {
