@@ -144,7 +144,7 @@ export function ContactSection() {
                 Location
               </h3>
               <p className="text-sm text-muted-foreground">
-                Chloorkop, Phomolong, 1619
+                Tembisa, Phomolong, 1632
               </p>
               <p className="text-sm text-muted-foreground">Gauteng, South Africa</p>
             </div>
