@@ -101,7 +101,7 @@ const certificates = [
     {
         title: "Complete Microsoft SQL Server Database Administration Course",
         file: "Complete Microsoft SQL Server Database Administration Course.pdf",
-        category: "Data Engineering",
+        category: "Database Administration",
     },
 ];
 
