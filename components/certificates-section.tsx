@@ -98,6 +98,11 @@ const certificates = [
         file: "CertificateOfCompletion_Foundations of Enterprise Content Management.pdf",
         category: "Content Management",
     },
+    {
+        title: "Complete Microsoft SQL Server Database Administration Course",
+        file: "Complete Microsoft SQL Server Database Administration Course.pdf",
+        category: "Data Engineering",
+    },
 ];
 
 export function CertificatesSection() {

@@ -25,6 +25,7 @@ const skills: Skill[] = [
   { name: "Data Warehousing", level: 76, category: "Data Eng" },
   { name: "Elastic Stack", level: 65, category: "Data Eng" },
   { name: "Enterprise Content Management", level: 75, category: "Data Eng" },
+  { name: "Database Administration", level: 85, category: "Data Eng" },
 ];
 
 const categories = [
@@ -102,8 +103,8 @@ export function SkillsSection() {
               type="button"
               onClick={() => setActiveCategory(cat)}
               className={`rounded-lg px-4 py-2 text-sm font-medium transition-all ${activeCategory === cat
-                  ? "bg-accent text-accent-foreground"
-                  : "bg-card text-muted-foreground hover:text-foreground border border-border"
+                ? "bg-accent text-accent-foreground"
+                : "bg-card text-muted-foreground hover:text-foreground border border-border"
                 }`}
             >
               {cat}
