@@ -26,6 +26,8 @@ const skills: Skill[] = [
   { name: "Elastic Stack", level: 65, category: "Data Eng" },
   { name: "Enterprise Content Management", level: 75, category: "Data Eng" },
   { name: "Database Administration", level: 85, category: "Data Eng" },
+  { name: "Linux", level: 75, category: "Cloud" },
+  { name: "Oracle", level: 70, category: "Data Eng" },
 ];
 
 const categories = [

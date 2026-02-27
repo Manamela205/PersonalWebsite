@@ -2,6 +2,6 @@
 2:I[38966,["/PersonalWebsite/_next/static/chunks/da501046475f900d.js","/PersonalWebsite/_next/static/chunks/387e6a87914a494c.js"],"ViewportBoundary"]
 4:I[38966,["/PersonalWebsite/_next/static/chunks/da501046475f900d.js","/PersonalWebsite/_next/static/chunks/387e6a87914a494c.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"ODNPwWJUPTuGTZRb7g36L","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"G1-QrXThtHh4PP4XlL4Iz","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Lucky Manamela | Junior AI Engineer & Data Scientist"}],["$","meta","1",{"name":"description","content":"Junior AI Engineer, Data Scientist, BI & Cloud Analyst. Experienced in Python, SQL, Power BI, Azure, machine learning, and deploying cloud-based AI applications."}]]
