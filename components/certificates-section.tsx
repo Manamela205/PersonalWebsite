@@ -4,6 +4,16 @@ import { Award, ExternalLink, ShieldCheck } from "lucide-react";
 
 const certificates = [
     {
+        title: "Coursera Linux Fundamental",
+        file: "Coursera Linux Fundamental.pdf",
+        category: "Operating Systems",
+    },
+    {
+        title: "Oracle Data Platform Foundations Associate Certificate",
+        file: "Oracle Data Platform Foundations Associate Certificate.pdf",
+        category: "Data Engineering",
+    },
+    {
         title: "AZ-104: Microsoft Azure Administrator",
         file: "AZ-104 Microsoft Azure Administrator Certification.pdf",
         category: "Microsoft Azure",
