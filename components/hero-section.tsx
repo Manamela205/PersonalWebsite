@@ -51,12 +51,12 @@ export function HeroSection() {
               Download CV
             </a>
             <a
-              href="Academic_Transcript/Academic_Transcript.pdf"
+              href="Bachelor of Computing-Data Science Degree/Bachelor of Computing-Data Science Degree Certificate1.pdf"
               download
               className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-secondary px-6 py-3 text-sm font-medium text-secondary-foreground transition-colors hover:bg-muted"
             >
               <Download className="h-4 w-4" />
-              Download Transcript
+              Download Degree
             </a>
           </div>
         </div>
