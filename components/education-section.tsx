@@ -1,4 +1,4 @@
-import { GraduationCap, Award, BookOpen } from "lucide-react";
+import { GraduationCap, Award, BookOpen, ExternalLink } from "lucide-react";
 
 const certifications = [
   "PL-300: Power BI Data Analyst Associate",
@@ -48,9 +48,20 @@ export function EducationSection() {
                 Honours in Bachelor of Computing (Data Science)
               </h4>
               <p className="text-sm text-accent">Belgium Campus iTversity</p>
-              <p className="text-xs font-mono text-muted-foreground">
-                2022 -- 2025
-              </p>
+              <div className="mt-1 flex flex-wrap items-center gap-3">
+                <p className="text-xs font-mono text-muted-foreground">
+                  2022 -- 2025
+                </p>
+                <a
+                  href="/Bachelor of Computing-Data Science Degree/Bachelor of Computing-Data Science Degree Certificate1.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 rounded-md bg-accent/10 px-2.5 py-1 text-xs font-medium text-accent transition-colors hover:bg-accent/20"
+                >
+                  <ExternalLink className="h-3.5 w-3.5" />
+                  View Degree
+                </a>
+              </div>
             </div>
 
             <div>
