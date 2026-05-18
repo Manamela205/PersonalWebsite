@@ -42,7 +42,7 @@ export function AboutSection() {
           <p className="mb-4 leading-relaxed text-muted-foreground">
             I am a results-oriented Data Science professional and Microsoft
             Certified Fabric Analytics Engineer with a strong foundation in data
-            architecture and business intelligence. Currently pursuing an Honors
+            architecture and business intelligence. Having completed an Honors
             Degree in Data Science at Belgium Campus iTversity, I bring hands-on
             experience from my tenure as a Graduate Data Scientist at Sambe
             Consulting, where I specialized in transforming complex datasets
