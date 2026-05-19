@@ -44,6 +44,25 @@ const experiences: ExperienceItem[] = [
     ],
   },
   {
+    role: "Data Reporting & Analytics Contractor",
+    company: "Faranani Doctec",
+    period: "Feb 2026 – Dec 2026",
+    type: "Contract",
+    icon: Briefcase,
+    responsibilities: [
+      "Built reports using Magellan Analytics Designer.",
+      "Used Oracle SQL Developer to create complex SQL queries to extract and clean data.",
+      "Monitored the performance of the Oracle Database on the Linux server.",
+    ],
+    technologies: [
+      "Magellan Analytics Designer",
+      "Oracle SQL Developer",
+      "Oracle Database",
+      "Linux",
+      "SQL",
+    ],
+  },
+  {
     role: "Vice President",
     company: "Student Representative Council (SRC)",
     period: "2023 -- 2024",
