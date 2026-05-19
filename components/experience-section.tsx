@@ -14,7 +14,7 @@ const experiences: ExperienceItem[] = [
   {
     role: "Data Reporting & Analytics Contractor",
     company: "Faranani Doctec",
-    period: "Feb 2026 – Dec 2026",
+    period: "Feb 2026 – Present",
     type: "Contract",
     icon: Briefcase,
     responsibilities: [
