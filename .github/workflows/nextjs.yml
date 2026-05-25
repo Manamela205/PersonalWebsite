@@ -27,8 +27,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Install pnpm
-        run: npm install -g pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          run_install: false
       - name: Detect package manager
         id: detect-package-manager
         run: |
@@ -71,11 +73,11 @@ jobs:
           restore-keys: |
             ${ runner.os }}-nextjs-${{ hashFiles('**/pnpm-lock.yaml', '**/package-lock.json', '**/yarn.lock') }}-
       - name: Install dependencies
-        run: ${{ steps.detect-package-manager.outputs.runner }} ${{ steps.detect-package-manager.outputs.command }}
+        run: pnpm install --frozen-lockfile
       - name: Build with Next.js
         run: |
           rm -f next.config.js
-          ${{ steps.detect-package-manager.outputs.runner }} run build
+          pnpm run build
       - name: Check Out Directory
         run: |
           if [ -d "out" ]; then
