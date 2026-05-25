@@ -43,7 +43,7 @@ export function HeroSection() {
               Contact Me
             </a>
             <a
-              href="cv/Lucky Manamela cv.pdf"
+              href="/PersonalWebsite/cv/Lucky Manamela cv.pdf"
               download
               className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-secondary px-6 py-3 text-sm font-medium text-secondary-foreground transition-colors hover:bg-muted"
             >
@@ -51,7 +51,7 @@ export function HeroSection() {
               Download CV
             </a>
             <a
-              href="Bachelor of Computing-Data Science Degree/Bachelor of Computing-Data Science Degree Certificate1.pdf"
+              href="/PersonalWebsite/Bachelor_of_Computing-Data_Science_Degree/Bachelor_of_Computing-Data_Science_Degree_Certificate1.pdf"
               download
               className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-secondary px-6 py-3 text-sm font-medium text-secondary-foreground transition-colors hover:bg-muted"
             >
