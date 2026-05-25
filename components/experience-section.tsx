@@ -12,7 +12,7 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
-    role: "Data Reporting & Analytics Contractor",
+    role: "Data Reporting & Analytics intern",
     company: "Faranani Doctec",
     period: "Feb 2026 – Present",
     type: "Contract",
