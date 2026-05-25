@@ -53,7 +53,7 @@ export function EducationSection() {
                   2022 -- 2025
                 </p>
                 <a
-                  href="/PersonalWebsite/Bachelor_of_Computing-Data_Science_Degree/Bachelor_of_Computing-Data_Science_Degree_Certificate1.pdf"
+                  href="/Bachelor_of_Computing-Data_Science_Degree/Bachelor_of_Computing-Data_Science_Degree_Certificate1.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1.5 rounded-md bg-accent/10 px-2.5 py-1 text-xs font-medium text-accent transition-colors hover:bg-accent/20"
